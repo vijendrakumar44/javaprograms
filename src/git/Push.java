@@ -6,6 +6,7 @@ public class Push {
 		// TODO Auto-generated method stub
 System.out.println("hello java");
 		System.out.println("hello world");
+		System.out.println("welcome");
 	}
 
 }
