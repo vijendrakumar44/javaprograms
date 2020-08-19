@@ -7,7 +7,7 @@ public class Push {
 System.out.println("hello java");
 		System.out.println("hello world");
 		System.out.println("welcome");
-		System.out.println("push to TE1");
+		System.out.println("iam  TE3");
 	}
 
 }
